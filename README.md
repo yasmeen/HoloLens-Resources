@@ -1,3 +1,3 @@
 # HoloLens-Resources
 
-* (https://bit.ly/hololensguide)[HoloLens Guide]
+* [HoloLens Guide](https://bit.ly/hololensguide)
