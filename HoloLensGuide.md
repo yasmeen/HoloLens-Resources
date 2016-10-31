@@ -34,7 +34,7 @@
 2.  <span class="c6">[HoloLens Emulator](https://www.google.com/url?q=http://go.microsoft.com/fwlink/?LinkID%3D799831&sa=D&ust=1477960328062000&usg=AFQjCNFPsS1HpfVV_3trR3c7UiEAsNuQnQ)</span><span> (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)</span>
 3.  <span class="c6">[Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw)</span><span> (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)</span>
 
-1.  ### <span class="c6">[Follow Tutorials from Windows Holographic Academy](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/academy&sa=D&ust=1477960328064000&usg=AFQjCNFfYB6yz3B9itGh6mbpJ6ZpJ6Marw)</span>
+### <span class="c6">[Follow Tutorials from Windows Holographic Academy](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/academy&sa=D&ust=1477960328064000&usg=AFQjCNFfYB6yz3B9itGh6mbpJ6ZpJ6Marw)</span>
 
 <span>Microsoft created these tutorials, and many of them include videos. They are quite project specific though, so you would need to change a lot of things to fit your own project’s needs.</span>
 
@@ -179,7 +179,7 @@
 
 <span></span>
 
-1.  <span class="c13 c0">Importing 3D Models</span>
+2.  <span class="c13 c0">Importing 3D Models</span>
 
 *   <span>Hover over</span> <span class="c0">Assets</span><span> in the upper left hand corner</span>
 *   <span>Click</span> <span class="c0">import new asset</span>
@@ -187,7 +187,7 @@
 
 <span>   </span>
 
-1.  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
+3.  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
 
 *   <span>Open up the</span><span class="c0"> GestureManager</span><span> script by double clicking on it</span>
 *   <span>For Y-Axis: In line 35 of the code you want to add</span> <span class="c0">GestureSettings.NavigationY</span>
@@ -220,13 +220,13 @@
 
 *   <span>To check if it is go to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span><span class="c0"> Player</span><span>, then click on the</span> <span class="c0">Windows Store icon</span><span> and check</span> <span class="c0">Virtual Reality Supported</span><span> (</span><span class="c0">Windows Holographic</span><span> should pop up if this is checked)</span>
 
-1.  <span class="c0">C# code to do different functions can be found on the</span> <span class="c0 c14">[Unity](https://www.google.com/url?q=https://docs.unity3d.com/Manual/index.html&sa=D&ust=1477960328152000&usg=AFQjCNHR9tTQVfrpJ0FQ-oajDYFlWrIjuQ)</span><span class="c0"> website</span>
-2.  <span class="c0">Decreasing the amount of polygons on a 3D model</span>
+2.  <span class="c0">C# code to do different functions can be found on the</span> <span class="c0 c14">[Unity](https://www.google.com/url?q=https://docs.unity3d.com/Manual/index.html&sa=D&ust=1477960328152000&usg=AFQjCNHR9tTQVfrpJ0FQ-oajDYFlWrIjuQ)</span><span class="c0"> website</span>
+3.  <span class="c0">Decreasing the amount of polygons on a 3D model</span>
 
-*   <span>Not an easy task but some polygons can be negated by going to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span> <span class="c0">Quality</span><span>, then on the</span> <span class="c0">Default</span><span> row under the</span> <span class="c0">Windows Store icon</span><span>, select the arrow and click on</span> <span class="c0">Fastest</span>
-*   <span>You can export the file in a format such as .stl, then re-import to a compatible unity file.</span>
+**   <span>Not an easy task but some polygons can be negated by going to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span> <span class="c0">Quality</span><span>, then on the</span> <span class="c0">Default</span><span> row under the</span> <span class="c0">Windows Store icon</span><span>, select the arrow and click on</span> <span class="c0">Fastest</span>
+**   <span>You can export the file in a format such as .stl, then re-import to a compatible unity file.</span>
 
-*   <span>This can be done by playing around with the functions that AutoCAD, Autodesk Inventor, Blender, and Creo have available.</span>
+**   <span>This can be done by playing around with the functions that AutoCAD, Autodesk Inventor, Blender, and Creo have available.</span>
 
 ### <span>Diagrams</span>
 
