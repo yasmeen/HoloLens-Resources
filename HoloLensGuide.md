@@ -26,7 +26,7 @@
 
 <span></span>
 
-1.  ### <span class="c6">[Install Development Tools](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/install_the_tools&sa=D&ust=1477960328060000&usg=AFQjCNGoczCPdBlamiAfHfYYKpMpE7sBHA)</span>
+### <span class="c6">[Install Development Tools](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/install_the_tools&sa=D&ust=1477960328060000&usg=AFQjCNGoczCPdBlamiAfHfYYKpMpE7sBHA)</span>
 
 <span>You must first install</span> <span class="c11 c0">ALL</span> <span>of these programs in order to begin developing for the HoloLens.</span>
 
@@ -48,7 +48,7 @@
 8.  <span class="c6">[Holograms 230: Spatial mapping](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_230&sa=D&ust=1477960328070000&usg=AFQjCNHAzU4_mdjENkSQxfTRVPkUBP5fOQ)</span>
 9.  <span class="c6">[Holograms 240: Sharing holograms](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_240&sa=D&ust=1477960328071000&usg=AFQjCNFavzyLg4p83hx--XiJ-6CV3un5fQ)</span><span> (only if you have more than one HoloLens)</span>
 
-1.  ### <span>Custom Tutorials</span>
+### <span>Custom Tutorials</span>
 
 1.  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
 
@@ -214,7 +214,7 @@
 
 <span></span>
 
-1.  ### <span>Helpful Hints</span>
+### <span>Helpful Hints</span>
 
 1.  <span class="c0">Always make sure that Virtual Reality Supported is checked</span>
 
@@ -228,7 +228,7 @@
 
 *   <span>This can be done by playing around with the functions that AutoCAD, Autodesk Inventor, Blender, and Creo have available.</span>
 
-1.  ### <span>Diagrams</span>
+### <span>Diagrams</span>
 
 1.  <span>Coming soon…</span>
 
