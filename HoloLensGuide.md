@@ -168,7 +168,7 @@
 
 <span></span>
 
-1.  <span class="c13 c0">Opening Projects</span>
+2.  <span class="c13 c0">Opening Projects</span>
 
 *   <span>Hover over</span> <span class="c0">File</span><span> and select</span> <span class="c0">Open Scene</span>
 
@@ -179,7 +179,7 @@
 
 <span></span>
 
-2.  <span class="c13 c0">Importing 3D Models</span>
+3.  <span class="c13 c0">Importing 3D Models</span>
 
 *   <span>Hover over</span> <span class="c0">Assets</span><span> in the upper left hand corner</span>
 *   <span>Click</span> <span class="c0">import new asset</span>
@@ -187,7 +187,7 @@
 
 <span>   </span>
 
-3.  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
+4.  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
 
 *   <span>Open up the</span><span class="c0"> GestureManager</span><span> script by double clicking on it</span>
 *   <span>For Y-Axis: In line 35 of the code you want to add</span> <span class="c0">GestureSettings.NavigationY</span>
