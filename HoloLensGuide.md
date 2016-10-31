@@ -223,10 +223,10 @@
 2.  <span class="c0">C# code to do different functions can be found on the</span> <span class="c0 c14">[Unity](https://www.google.com/url?q=https://docs.unity3d.com/Manual/index.html&sa=D&ust=1477960328152000&usg=AFQjCNHR9tTQVfrpJ0FQ-oajDYFlWrIjuQ)</span><span class="c0"> website</span>
 3.  <span class="c0">Decreasing the amount of polygons on a 3D model</span>
 
-**   <span>Not an easy task but some polygons can be negated by going to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span> <span class="c0">Quality</span><span>, then on the</span> <span class="c0">Default</span><span> row under the</span> <span class="c0">Windows Store icon</span><span>, select the arrow and click on</span> <span class="c0">Fastest</span>
-**   <span>You can export the file in a format such as .stl, then re-import to a compatible unity file.</span>
+*   <span>Not an easy task but some polygons can be negated by going to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span> <span class="c0">Quality</span><span>, then on the</span> <span class="c0">Default</span><span> row under the</span> <span class="c0">Windows Store icon</span><span>, select the arrow and click on</span> <span class="c0">Fastest</span>
+*   <span>You can export the file in a format such as .stl, then re-import to a compatible unity file.</span>
 
-**   <span>This can be done by playing around with the functions that AutoCAD, Autodesk Inventor, Blender, and Creo have available.</span>
+*   <span>This can be done by playing around with the functions that AutoCAD, Autodesk Inventor, Blender, and Creo have available.</span>
 
 ### <span>Diagrams</span>
 
