@@ -31,7 +31,9 @@
 <span>You must first install</span> <span class="c11 c0">ALL</span> <span>of these programs in order to begin developing for the HoloLens.</span>
 
 1)  <span class="c6">[Visual Studio 2015 Update 3](https://www.google.com/url?q=http://dev.windows.com/downloads&sa=D&ust=1477960328062000&usg=AFQjCNF6Z61T9iL13YKBmDLfI53eGWSrFw)</span><span>  (Developer Tools and Services for writing code and deploying applications from Unity onto HoloLens)</span>
+<br>
 2)  <span class="c6">[HoloLens Emulator](https://www.google.com/url?q=http://go.microsoft.com/fwlink/?LinkID%3D799831&sa=D&ust=1477960328062000&usg=AFQjCNFPsS1HpfVV_3trR3c7UiEAsNuQnQ)</span><span> (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)</span>
+<br>
 3)  <span class="c6">[Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw)</span><span> (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)</span>
 
 ### <span class="c6">[Follow Tutorials from Windows Holographic Academy](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/academy&sa=D&ust=1477960328064000&usg=AFQjCNFfYB6yz3B9itGh6mbpJ6ZpJ6Marw)</span>
@@ -49,8 +51,7 @@
 9)  <span class="c6">[Holograms 240: Sharing holograms](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_240&sa=D&ust=1477960328071000&usg=AFQjCNFavzyLg4p83hx--XiJ-6CV3un5fQ)</span><span> (only if you have more than one HoloLens)</span>
 
 ### <span>Custom Tutorials</span>
-
-1)  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
+####  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
 
 *   <span>On the Unity start up window, select</span> <span class="c0">New</span><span>.</span>
 
@@ -168,7 +169,7 @@
 
 <span></span>
 
-2)  <span class="c13 c0">Opening Projects</span>
+####  <span class="c13 c0">Opening Projects</span>
 
 *   <span>Hover over</span> <span class="c0">File</span><span> and select</span> <span class="c0">Open Scene</span>
 
@@ -179,7 +180,7 @@
 
 <span></span>
 
-3)  <span class="c13 c0">Importing 3D Models</span>
+####  <span class="c13 c0">Importing 3D Models</span>
 
 *   <span>Hover over</span> <span class="c0">Assets</span><span> in the upper left hand corner</span>
 *   <span>Click</span> <span class="c0">import new asset</span>
@@ -187,7 +188,7 @@
 
 <span>   </span>
 
-4)  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
+####  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
 
 *   <span>Open up the</span><span class="c0"> GestureManager</span><span> script by double clicking on it</span>
 *   <span>For Y-Axis: In line 35 of the code you want to add</span> <span class="c0">GestureSettings.NavigationY</span>
