@@ -1,29 +1,7 @@
 # <span class="c0">NASA HoloLens Guide</span>
 
 <span class="c11 c18">For questions, comments, or concerns, contact Yasmeen Roumie at</span> <span class="c6 c11">[nasahololens@gmail.com](mailto:nasahololens@gmail.com)</span><span class="c11 c18"> </span>
-
-* * *
-
-<span class="c0"></span>
-
-<span></span>
-
-<span class="c6">[NASA HoloLens Guide](#h.fljpowcdh0o)</span>
-
-<span class="c6">[Install Development Tools](#h.i45zplaeilqv)</span>
-
-<span class="c6">[Follow Tutorials from Windows Holographic Academy](#h.awmaex5kftb4)</span>
-
-<span class="c6">[Custom Tutorials](#h.36jlj2buvrsh)</span>
-
-<span class="c6">[Helpful Hints](#h.2psjuq4qw8lw)</span>
-
-<span class="c6">[Diagrams](#h.hx22p7hyzuiy)</span>
-
-<span></span>
-
-* * *
-
+***
 <span></span>
 
 ### <span class="c6">[Install Development Tools](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/install_the_tools&sa=D&ust=1477960328060000&usg=AFQjCNGoczCPdBlamiAfHfYYKpMpE7sBHA)</span>
@@ -41,14 +19,23 @@
 <span>Microsoft created these tutorials, and many of them include videos. They are quite project specific though, so you would need to change a lot of things to fit your own project’s needs.</span>
 
 1)  <span class="c6">[Holograms 100: Getting Started with Unity](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_100&sa=D&ust=1477960328065000&usg=AFQjCNH4Bole-MG8zEi1FQmCgoNn_GGC9A)</span>
+<br>
 2)  <span class="c6">[Holograms 101E: Introduction with Emulator](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101e&sa=D&ust=1477960328065000&usg=AFQjCNFcyy37Tg-dK5b2JrIax8rFI6bb5A)</span><span> - how to run an application on the HoloLens emulator</span>
+<br>
 3)  <span class="c6">[Holograms 101: Introduction with Device](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101&sa=D&ust=1477960328066000&usg=AFQjCNGdktwYEfRtYhvIRDYLUgpc851AJw)</span><span> - how to run an application on the actual HoloLens device</span>
+<br>
 4)  <span class="c6">[Holograms 210: Gaze](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_210&sa=D&ust=1477960328067000&usg=AFQjCNFtzQDH8tmwinnoskmC0bs6UAYDMA)</span>
+<br>
 5).  <span class="c6">[Holograms 211: Gesture](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_211&sa=D&ust=1477960328067000&usg=AFQjCNEXl8IxGpcvRYKtg3BP0jksNyrNCw)</span>
+<br>
 6)  <span class="c6">[Holograms 212: Voice](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_212&sa=D&ust=1477960328068000&usg=AFQjCNE_eWRrPXMWyTiHbohFN3t1b9JwwA)</span>
+<br>
 7)  <span class="c6">[Holograms 220: Spatial sound](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_220&sa=D&ust=1477960328069000&usg=AFQjCNGM-KawIOJL-xGWWqGl51oZqP0sQA)</span>
+<br>
 8)  <span class="c6">[Holograms 230: Spatial mapping](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_230&sa=D&ust=1477960328070000&usg=AFQjCNHAzU4_mdjENkSQxfTRVPkUBP5fOQ)</span>
+<br>
 9)  <span class="c6">[Holograms 240: Sharing holograms](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_240&sa=D&ust=1477960328071000&usg=AFQjCNFavzyLg4p83hx--XiJ-6CV3un5fQ)</span><span> (only if you have more than one HoloLens)</span>
+<br>
 
 ### <span>Custom Tutorials</span>
 ####  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
