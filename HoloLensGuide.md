@@ -30,27 +30,27 @@
 
 <span>You must first install</span> <span class="c11 c0">ALL</span> <span>of these programs in order to begin developing for the HoloLens.</span>
 
-1.  <span class="c6">[Visual Studio 2015 Update 3](https://www.google.com/url?q=http://dev.windows.com/downloads&sa=D&ust=1477960328062000&usg=AFQjCNF6Z61T9iL13YKBmDLfI53eGWSrFw)</span><span>  (Developer Tools and Services for writing code and deploying applications from Unity onto HoloLens)</span>
-2.  <span class="c6">[HoloLens Emulator](https://www.google.com/url?q=http://go.microsoft.com/fwlink/?LinkID%3D799831&sa=D&ust=1477960328062000&usg=AFQjCNFPsS1HpfVV_3trR3c7UiEAsNuQnQ)</span><span> (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)</span>
-3.  <span class="c6">[Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw)</span><span> (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)</span>
+1)  <span class="c6">[Visual Studio 2015 Update 3](https://www.google.com/url?q=http://dev.windows.com/downloads&sa=D&ust=1477960328062000&usg=AFQjCNF6Z61T9iL13YKBmDLfI53eGWSrFw)</span><span>  (Developer Tools and Services for writing code and deploying applications from Unity onto HoloLens)</span>
+2)  <span class="c6">[HoloLens Emulator](https://www.google.com/url?q=http://go.microsoft.com/fwlink/?LinkID%3D799831&sa=D&ust=1477960328062000&usg=AFQjCNFPsS1HpfVV_3trR3c7UiEAsNuQnQ)</span><span> (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)</span>
+3)  <span class="c6">[Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw)</span><span> (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)</span>
 
 ### <span class="c6">[Follow Tutorials from Windows Holographic Academy](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/academy&sa=D&ust=1477960328064000&usg=AFQjCNFfYB6yz3B9itGh6mbpJ6ZpJ6Marw)</span>
 
 <span>Microsoft created these tutorials, and many of them include videos. They are quite project specific though, so you would need to change a lot of things to fit your own project’s needs.</span>
 
-1.  <span class="c6">[Holograms 100: Getting Started with Unity](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_100&sa=D&ust=1477960328065000&usg=AFQjCNH4Bole-MG8zEi1FQmCgoNn_GGC9A)</span>
-2.  <span class="c6">[Holograms 101E: Introduction with Emulator](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101e&sa=D&ust=1477960328065000&usg=AFQjCNFcyy37Tg-dK5b2JrIax8rFI6bb5A)</span><span> - how to run an application on the HoloLens emulator</span>
-3.  <span class="c6">[Holograms 101: Introduction with Device](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101&sa=D&ust=1477960328066000&usg=AFQjCNGdktwYEfRtYhvIRDYLUgpc851AJw)</span><span> - how to run an application on the actual HoloLens device</span>
-4.  <span class="c6">[Holograms 210: Gaze](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_210&sa=D&ust=1477960328067000&usg=AFQjCNFtzQDH8tmwinnoskmC0bs6UAYDMA)</span>
-5.  <span class="c6">[Holograms 211: Gesture](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_211&sa=D&ust=1477960328067000&usg=AFQjCNEXl8IxGpcvRYKtg3BP0jksNyrNCw)</span>
-6.  <span class="c6">[Holograms 212: Voice](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_212&sa=D&ust=1477960328068000&usg=AFQjCNE_eWRrPXMWyTiHbohFN3t1b9JwwA)</span>
-7.  <span class="c6">[Holograms 220: Spatial sound](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_220&sa=D&ust=1477960328069000&usg=AFQjCNGM-KawIOJL-xGWWqGl51oZqP0sQA)</span>
-8.  <span class="c6">[Holograms 230: Spatial mapping](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_230&sa=D&ust=1477960328070000&usg=AFQjCNHAzU4_mdjENkSQxfTRVPkUBP5fOQ)</span>
-9.  <span class="c6">[Holograms 240: Sharing holograms](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_240&sa=D&ust=1477960328071000&usg=AFQjCNFavzyLg4p83hx--XiJ-6CV3un5fQ)</span><span> (only if you have more than one HoloLens)</span>
+1)  <span class="c6">[Holograms 100: Getting Started with Unity](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_100&sa=D&ust=1477960328065000&usg=AFQjCNH4Bole-MG8zEi1FQmCgoNn_GGC9A)</span>
+2)  <span class="c6">[Holograms 101E: Introduction with Emulator](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101e&sa=D&ust=1477960328065000&usg=AFQjCNFcyy37Tg-dK5b2JrIax8rFI6bb5A)</span><span> - how to run an application on the HoloLens emulator</span>
+3)  <span class="c6">[Holograms 101: Introduction with Device](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_101&sa=D&ust=1477960328066000&usg=AFQjCNGdktwYEfRtYhvIRDYLUgpc851AJw)</span><span> - how to run an application on the actual HoloLens device</span>
+4)  <span class="c6">[Holograms 210: Gaze](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_210&sa=D&ust=1477960328067000&usg=AFQjCNFtzQDH8tmwinnoskmC0bs6UAYDMA)</span>
+5).  <span class="c6">[Holograms 211: Gesture](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_211&sa=D&ust=1477960328067000&usg=AFQjCNEXl8IxGpcvRYKtg3BP0jksNyrNCw)</span>
+6)  <span class="c6">[Holograms 212: Voice](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_212&sa=D&ust=1477960328068000&usg=AFQjCNE_eWRrPXMWyTiHbohFN3t1b9JwwA)</span>
+7)  <span class="c6">[Holograms 220: Spatial sound](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_220&sa=D&ust=1477960328069000&usg=AFQjCNGM-KawIOJL-xGWWqGl51oZqP0sQA)</span>
+8)  <span class="c6">[Holograms 230: Spatial mapping](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_230&sa=D&ust=1477960328070000&usg=AFQjCNHAzU4_mdjENkSQxfTRVPkUBP5fOQ)</span>
+9)  <span class="c6">[Holograms 240: Sharing holograms](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/holograms_240&sa=D&ust=1477960328071000&usg=AFQjCNFavzyLg4p83hx--XiJ-6CV3un5fQ)</span><span> (only if you have more than one HoloLens)</span>
 
 ### <span>Custom Tutorials</span>
 
-1.  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
+1)  <span class="c13 c0">Start a Simple HoloLens Project from Scratch</span>
 
 *   <span>On the Unity start up window, select</span> <span class="c0">New</span><span>.</span>
 
@@ -168,7 +168,7 @@
 
 <span></span>
 
-2.  <span class="c13 c0">Opening Projects</span>
+2)  <span class="c13 c0">Opening Projects</span>
 
 *   <span>Hover over</span> <span class="c0">File</span><span> and select</span> <span class="c0">Open Scene</span>
 
@@ -179,7 +179,7 @@
 
 <span></span>
 
-3.  <span class="c13 c0">Importing 3D Models</span>
+3)  <span class="c13 c0">Importing 3D Models</span>
 
 *   <span>Hover over</span> <span class="c0">Assets</span><span> in the upper left hand corner</span>
 *   <span>Click</span> <span class="c0">import new asset</span>
@@ -187,7 +187,7 @@
 
 <span>   </span>
 
-4.  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
+4)  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
 
 *   <span>Open up the</span><span class="c0"> GestureManager</span><span> script by double clicking on it</span>
 *   <span>For Y-Axis: In line 35 of the code you want to add</span> <span class="c0">GestureSettings.NavigationY</span>
@@ -216,12 +216,12 @@
 
 ### <span>Helpful Hints</span>
 
-1.  <span class="c0">Always make sure that Virtual Reality Supported is checked</span>
+1)  <span class="c0">Always make sure that Virtual Reality Supported is checked</span>
 
 *   <span>To check if it is go to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span><span class="c0"> Player</span><span>, then click on the</span> <span class="c0">Windows Store icon</span><span> and check</span> <span class="c0">Virtual Reality Supported</span><span> (</span><span class="c0">Windows Holographic</span><span> should pop up if this is checked)</span>
 
-2.  <span class="c0">C# code to do different functions can be found on the</span> <span class="c0 c14">[Unity](https://www.google.com/url?q=https://docs.unity3d.com/Manual/index.html&sa=D&ust=1477960328152000&usg=AFQjCNHR9tTQVfrpJ0FQ-oajDYFlWrIjuQ)</span><span class="c0"> website</span>
-3.  <span class="c0">Decreasing the amount of polygons on a 3D model</span>
+2)  <span class="c0">C# code to do different functions can be found on the</span> <span class="c0 c14">[Unity](https://www.google.com/url?q=https://docs.unity3d.com/Manual/index.html&sa=D&ust=1477960328152000&usg=AFQjCNHR9tTQVfrpJ0FQ-oajDYFlWrIjuQ)</span><span class="c0"> website</span>
+3)  <span class="c0">Decreasing the amount of polygons on a 3D model</span>
 
 *   <span>Not an easy task but some polygons can be negated by going to</span><span class="c0"> Edit</span><span>,</span> <span class="c0">Project Settings</span><span>,</span> <span class="c0">Quality</span><span>, then on the</span> <span class="c0">Default</span><span> row under the</span> <span class="c0">Windows Store icon</span><span>, select the arrow and click on</span> <span class="c0">Fastest</span>
 *   <span>You can export the file in a format such as .stl, then re-import to a compatible unity file.</span>
@@ -230,6 +230,6 @@
 
 ### <span>Diagrams</span>
 
-1.  <span>Coming soon…</span>
+1)  <span>Coming soon…</span>
 
 <span></span>
