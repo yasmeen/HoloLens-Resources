@@ -186,8 +186,6 @@
 *   <span>Click</span> <span class="c0">import new asset</span>
 *   <span>Find the right model you want to import (Unity 5.4 only supports</span> <span class="c0">.Fbx, .dae, .3DS, .dxf, and .obj</span><span> 3D files)</span>
 
-<span>   </span>
-
 ####  <span class="c0 c13">Rotation in Multiple Axes (X, Y, & Z)</span>
 
 *   <span>Open up the</span><span class="c0"> GestureManager</span><span> script by double clicking on it</span>
