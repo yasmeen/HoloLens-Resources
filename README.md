@@ -8,11 +8,11 @@
 
 <span>You must first install</span> <span class="c11 c0">ALL</span> <span>of these programs in order to begin developing for the HoloLens.</span>
 
-1)  <span class="c6">[Visual Studio 2015 Update 3](https://www.google.com/url?q=http://dev.windows.com/downloads&sa=D&ust=1477960328062000&usg=AFQjCNF6Z61T9iL13YKBmDLfI53eGWSrFw)</span><span>  (Developer Tools and Services for writing code and deploying applications from Unity onto HoloLens)</span>
+1)  [Visual Studio 2015 Update 3](https://www.google.com/url?q=http://dev.windows.com/downloads&sa=D&ust=1477960328062000&usg=AFQjCNF6Z61T9iL13YKBmDLfI53eGWSrFw) (Developer Tools and Services for writing code and deploying applications from Unity onto HoloLens)
+<br/>
+2)  [HoloLens Emulator](http://go.microsoft.com/fwlink/?LinkID=799831) (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)
 <br>
-2)  <span class="c6">[HoloLens Emulator](https://www.google.com/url?q=http://go.microsoft.com/fwlink/?LinkID%3D799831&sa=D&ust=1477960328062000&usg=AFQjCNFPsS1HpfVV_3trR3c7UiEAsNuQnQ)</span><span> (An add-on to Visual Studios to run applications on a simulated computer program that acts like a HoloLens interface)</span>
-<br>
-3)  <span class="c6">[Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw)</span><span> (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)</span>
+3)  [Unity HoloLens Technical Preview](https://www.google.com/url?q=http://aka.ms/HoloLensUnity&sa=D&ust=1477960328063000&usg=AFQjCNEbYTEjvsp_DqxbkxxIVcWf_8o2jw) (Game/Application Development platform specifically designed for HoloLens to create Mixed Reality applications)
 
 ### <span class="c6">[Follow Tutorials from Windows Holographic Academy](https://www.google.com/url?q=https://developer.microsoft.com/en-us/windows/holographic/academy&sa=D&ust=1477960328064000&usg=AFQjCNFfYB6yz3B9itGh6mbpJ6ZpJ6Marw)</span>
 
